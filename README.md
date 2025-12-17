@@ -24,6 +24,8 @@ This project uses the **Mental Health Blog (MHB) Dataset**, introduced by Boinep
 For this project, the dataset is adapted to the binary classification setting described above, enabling direct evaluation of a model’s ability to distinguish depression-specific linguistic patterns from broader mental health discourse.
 
 **Source:**  
+Due to dataset size constraints, processed train/dev/test splits are not included in the repository. All splits can be reproduced by running the provided preprocessing script on the Mental Health Blog dataset (Boinepelli et al., 2022).
+
 Boinepelli et al., *Leveraging Mental Health Forums for User-Level Depression Detection on Social Media*, LREC 2022.
 
 ---
